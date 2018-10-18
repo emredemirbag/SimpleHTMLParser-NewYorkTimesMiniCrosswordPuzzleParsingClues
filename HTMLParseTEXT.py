@@ -1,5 +1,5 @@
-#Simple HTML Parser program by Emre Demirbag https://github.com/emredemirbag
-#This program sends HTTP request to New York Times Mini Crossword Puzzle,by Joel Fagliano,(https://www.nytimes.com/crosswords/game/mini) link and it parses clues from the page and writes to a text file.
+#Simple HTML Parser, coded by Emre Demirbag https://github.com/emredemirbag
+#New York Times Mini Crossword Puzzle,by Joel Fagliano,(https://www.nytimes.com/crosswords/game/mini) 
 #Libraries: requests:(http://docs.python-requests.org/en/master/), soup:(https://www.crummy.com/software/BeautifulSoup/bs4/doc/) 
 
 
