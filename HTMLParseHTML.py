@@ -1,5 +1,5 @@
 #Simple HTML Parser coded by Emre Demirbag https://github.com/emredemirbag
-#New York Times Mini Crossword Puzzle,by Joel Fagliano,(https://www.nytimes.com/crosswords/game/mini) link and it parses clues from the page writes to html file.
+#New York Times Mini Crossword Puzzle,by Joel Fagliano,(https://www.nytimes.com/crosswords/game/mini)
 #Libraries: requests:(http://docs.python-requests.org/en/master/), soup:(https://www.crummy.com/software/BeautifulSoup/bs4/doc/) 
 
 
